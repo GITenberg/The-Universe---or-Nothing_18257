@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '1011'
     url: http://www.gutenberg.org/2009/agents/1011
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18257#The-Universe---or-Nothing
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2006-04-25'
 gutenberg_type: Text
