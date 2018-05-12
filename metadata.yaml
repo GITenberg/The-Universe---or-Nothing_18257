@@ -1,0 +1,26 @@
+_repo: The-Universe---or-Nothing_18257
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Moldeven, Meyer
+    birthdate: 1917
+    gutenberg_agent_id: '1011'
+    url: http://www.gutenberg.org/2009/agents/1011
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2006-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18257'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: The Universe — or Nothing
+url: http://www.gutenberg.org/ebooks/18257
